@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# muestro las IPs
+nc -l localhost 98
