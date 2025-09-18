@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #entro el sudo de una
 sudo sed -i 's/127\.0\.0\.1\s\+localhost/127.0.0.2 localhost/'
 
